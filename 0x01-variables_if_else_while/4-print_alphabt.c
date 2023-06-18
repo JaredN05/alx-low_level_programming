@@ -2,12 +2,11 @@
 
 /*
  * Task: 4. When I was having that alphabet soup,
- * 	    I never thought that it would pay off
  * Creator: Jared Naicker
  */
 
 /**
- * main - Displays the alphabet in lowercase, except for q and e, using the for loop.
+ * main - Displays the alphabet in lowercase, except for q and e.
  *
  * Return: Always 0.
  */
