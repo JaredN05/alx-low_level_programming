@@ -8,13 +8,14 @@
  */
 
 /**
- * main - The program will print a random number, and will display if the number is positive or negative.
+ * main - Display if num is positive, negative, or zero.
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {	
+
 	int n;
 
 	srand(time(0));
