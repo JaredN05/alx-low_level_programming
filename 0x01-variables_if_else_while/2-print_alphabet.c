@@ -1,14 +1,12 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 
 /*
- * Task: 1. The last digit
+ * Task: 2. I play what I call the alphabet game
  * Creator: Jared Naicker
  */
 
 /**
- * main - Displays the alphabets in lowercase.
+ * main - Displays the alphabet in lowercase, using the for loop.
  *
  * Return: Always 0.
  */
@@ -16,10 +14,10 @@ int main(void)
 {
 	char alphabet;
 
-	for (alphabet = "a"; alphabet <= "z"; alphabet++)
+	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 		putchar(alphabet);
 
-	putchar("\n");
+	putchar('\n');
 
 	return (0);
 }
