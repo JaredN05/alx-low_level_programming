@@ -1,11 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
 /*
  * Task: 0. Positive anything is better than negative nothing
  * Creator: Jared Naicker
  */
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 /**
  * main - The program will print a random number, 
@@ -21,19 +21,17 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	
-	printf("Random number is:\n%d \n", n);
-
 	if (n > 0)
         {
-            printf("The number is positive \n");
+            printf("%d is positive\n", n);
         }
         else if (n < 0)
         {
-            printf("The number is negative \n");
+            printf("%d is negative\n", n);
         }
         else
         {
-            printf("The number is zero \n");
+            printf("%d is zero\n", n);
         }
 
 	return (0);
