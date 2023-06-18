@@ -1,18 +1,13 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
-/*
- * Task: 0. Positive anything is better than negative nothing
- * Creator: Jared Naicker
- */
+#include <stdio.h>
 
 /**
- * main - Display if num is positive, negative, or zero.
+ * main - Prints the last digit of a randomly generated number
+ *        and whether it is greater than 5, less than 6, or 0.
  *
- * Return: Always 0 (Success)
+ * Return: Always 0.
  */
-
 int main(void)
 {
 	int n;
