@@ -6,7 +6,7 @@
  */
 
 /**
- * main - Displays all single digit numbers of base 10 starting from 0, using putchar.
+ * main - Displays all single digit numbers of base 10 starting from 0.
  *
  * Return: Always 0.
  */
