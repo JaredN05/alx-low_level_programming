@@ -2,9 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
+/*
+ * Task: 1. The last digit
+ * Creator: Jared Naicker
+ */
+
 /**
- * main - Prints the last digit of a randomly generated number
- *        and whether it is greater than 5, less than 6, or 0.
+ * main - Displays the last digit of a random number
+ *        and checks if it is greater than 5, less than 6, or 0.
  *
  * Return: Always 0.
  */
