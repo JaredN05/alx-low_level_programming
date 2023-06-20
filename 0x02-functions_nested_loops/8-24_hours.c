@@ -1,7 +1,7 @@
 #include "main.h"
 
 /*
- * Task: 8. I'm federal agent Jack Bauer, and today is the longest day of my life.
+ * Task: 8. I'm federal agent Jack Bauer.
  * Creator: Jared Naicker
  */
 
