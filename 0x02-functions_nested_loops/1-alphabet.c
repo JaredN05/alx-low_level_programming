@@ -6,8 +6,7 @@
  */
 
 /**
- * main - Print the alphabet in lowercase, using a function.
- *
+ * Print the alphabet in lowercase, using a function.
  * Return: void
  */
 void print_alphabet(void)
