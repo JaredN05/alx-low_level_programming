@@ -3,7 +3,7 @@
 #include "variadic_functions.h"
 
 /*
- * Task: 1. To be is to be the value of a variable 
+ * Task: 1. To be is to be the value of a variable
  * Creator: Jared Naicker
  */
 
