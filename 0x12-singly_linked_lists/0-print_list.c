@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /*
- * Task: 0. Trust no one
+ * Task: 0. Print list
  * Creator: Jared Naicker
  */
 
