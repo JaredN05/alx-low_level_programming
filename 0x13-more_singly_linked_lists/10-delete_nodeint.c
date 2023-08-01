@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /*
- * Task: 
+ * Task: 10. Delete at index
  * Creator: Jared Naicker
  */
 
