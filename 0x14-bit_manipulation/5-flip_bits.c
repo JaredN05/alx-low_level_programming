@@ -6,12 +6,13 @@
  */
 
 /**
-  * clear_bit - Code sets the value of a bit to 0
-  * @n: The number to change
-  * @index: The index in the number to change
-  *
-  * Return: 1 if it success, or -1 if fails
-  */
+ * flip_bits - Counts the number of bits to change
+ * to get from one number to the other
+ * @n: first number
+ * @m: second number
+ *
+ * Return: The number of bits to change
+ */
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
 	int i, count = 0;
